@@ -1,0 +1,21 @@
+Vad skall finnas med?
+
+1. En spelplan (check)
+2. five candies or colours (check)
+3. place colours all over the board (check)
+4. if three colours near = disapear + 250 points (check)
+5. if more than three colours near = disapear + 250*2 points (check)
+
+6. move board down if empty, remeber delay
+7. move plays
+8. make check function after moved play
+9. undefind should be new defind plays without the list extending
+10. 
+
+
+
+
+Spelregler:
+1. 3 i rad = minst poäng
+2. 4 i rad
+
